@@ -26,3 +26,4 @@ PassGuard is an web application that allows users to register for an account and
 <img src="https://github.com/zainafzal0/PassGuard/blob/master/images/cards.png" alt="credit_page" width="500"/>
 "# PassGuard" 
 "# PassGuard" 
+"# PassGuard" 
