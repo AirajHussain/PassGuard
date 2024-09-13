@@ -1,0 +1,33 @@
+# Node Modules
+node_modules/
+.eslintcache
+
+# Logs
+logs
+*.log
+
+# Dependency directories
+npm-debug.log
+yarn-error.log
+
+# Environment files
+.env
+
+# Editor-specific files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Files for testing
+coverage/
+*.gcda
+*.gcno

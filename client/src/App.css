@@ -1,0 +1,39 @@
+:root {
+  --cyan: #01dacf;
+  --black: #000000;
+}
+.App {
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+}
+
+body {
+  font-family: "Montserrat", sans-serif !important;
+}
+
+.homepage-buttons {
+  width: 200px;
+  height: 60px;
+  padding: 10px;
+  font-size: 1.5rem;
+  margin: 5px;
+  border: 0px;
+}
+
+.homepage-buttons:hover {
+  background-color: var(--cyan) !important;
+  color: #ffffff;
+}
+
+.startScreen {
+  height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+h6 {
+  padding: 5px;
+  color: red;
+}
