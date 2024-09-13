@@ -15,16 +15,16 @@ PassGuard is a web app that lets users create an account to securely store passw
 
 ### Login Page
 
-<img src="https://github.com/AirajHussain/PassGuard/images/login.png" alt="login_page" width="500"/>
+<img src="https://github.com/AirajHussain/PassGuard/blob/main/images/login.png" alt="login_page" width="500"/>
 
 ### Home Page
 
-<img src="https://github.com/AirajHussain/PassGuard/images/dashboard.png" alt="home_page" width="500"/>
+<img src="https://github.com/AirajHussain/PassGuard/blob/main/images/dashboard.png" alt="home_page" width="500"/>
 
 ### Passwords Page
 
-<img src="https://github.com/AirajHussain/PassGuard/images/accounts.png" alt="sites" width="500"/>
+<img src="https://github.com/AirajHussain/PassGuard/blob/main/images/accounts.png" alt="sites" width="500"/>
 
 ### Credit Card Page
 
-<img src="https://github.com/AirajHussain/PassGuard/images/cards.png" alt="credit_page" width="500"/>
+<img src="https://github.com/AirajHussain/PassGuard/blob/main/images/cards.png" alt="credit_page" width="500"/>
